@@ -20,7 +20,13 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
 * ...
 
 * adding master defect
+* learing git
+
+* adding content development,feature branch
+
+* adding one more line in development
+
+* adding one more line
