@@ -24,3 +24,5 @@ Things you may want to cover:
 * learing git
 
 * adding content development,feature branch
+
+* adding one more line in development
