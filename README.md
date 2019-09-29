@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * learing git
+
+* adding content development,feature branch
